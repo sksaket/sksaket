@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, I'm Saket khatavkar 👋</h1>
-- 📫 Email : saketkhatavkar@gmail.com
+📫 Email : saketkhatavkar@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
