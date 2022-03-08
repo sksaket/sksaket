@@ -6,7 +6,7 @@
 of experience in data processing, predictive modeling, and hyper
 parameter tuning. Experienced in Python, SQL, ML and Tableau as
 well as time series forecasting.
-📫 Email : saketkhatavkar@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
