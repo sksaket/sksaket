@@ -30,6 +30,7 @@ When I'm not pivoting tables, I'm watching Breaking Bad, Modern family, reading 
 - 💻 I upskill myself on : HTML, CSS, Javascript, React, Redux, SQL, Mongodb, Java, Python
 - 🛠️ I'm an analytical thinker and problem solver with strong communication skills. I love working & collaborating with teams to help unlock the full potential of their data.
 - 🌐 I have also interest in the field of data science, machine learning and AI
-- 💬 I have done specialization course from institutional level andcompleted my intership from AIvarient, Mumbai.
+- 💬 I have done data science specialization course from institutional level and completed my intership from AIvarient, Mumbai.
 - 👨‍💻 All of my projects are available at [https://github.com/sksaket?tab=repositories)
-- 📫 You can reach me on my email **saketkhatavkar@gmail.com** OR connect me on <a href="https://www.linkedin.com/in/sksaket/" target="_blank">Linkedin/sksaket</a>
+- 🌐 Actively seeking opportunities to apply and expand my skills in a dynamic data-driven environment. Open to collaboration, learning, and contributing to impactful projects.
+- 🤝 Let's connect! I am eager to engage with fellow data enthusiasts, professionals, and mentors. Feel free to reach out to me on my email **saketkhatavkar@gmail.com** OR connect me on <a href="https://www.linkedin.com/in/sksaket/" target="_blank">Linkedin/sksaket</a>
