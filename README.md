@@ -32,4 +32,4 @@ When I'm not pivoting tables, I'm watching Breaking Bad, Modern family, reading 
 - 🌐 I have also interest in the field of data science, machine learning and AI
 - 💬 I have done specialization course from institutional level andcompleted my intership from AIvarient, Mumbai.
 - 👨‍💻 All of my projects are available at [https://github.com/sksaket?tab=repositories)
-- 📫 You can reach me on my email **saketkhatavkar@gmail.com** OR connect me on <a href="www.linkedin.com/in/sksaket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saketkhatavkar/" height="30" width="40" /></a>
+- 📫 You can reach me on my email **saketkhatavkar@gmail.com** OR connect me on <a href="https://www.linkedin.com/in/sksaket/" target="_blank">Linkedin/sksaket</a>
