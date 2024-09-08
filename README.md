@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 
-I build Web Sites by the day, learn stuff from the Internet by the night. Interest in learning new things made me a Frontend Web Developer, So here I'm a Self-Taught frontend Web-developer. If you want My help in learning Web dev. or in making one feel free to contact, I would like to help if I can. Currently working on these technologies HTML, JAVASCRIPT, CSS3, nosql and React to improve myself. 
+I build websites by day and learn new skills online by night. My passion for learning led me to become a self-taught Frontend Web Developer. If you need assistance with web development or want to build a site, feel free to reach out. I'm currently focused on improving my skills in HTML, JavaScript, CSS3, NoSQL, and React.
 
 From mastering multiple programming languages to architecting robust frameworks, I thrive on challenges that make my synapses fire and my creativity soar. Each project is an opportunity to leave a digital footprint that's not just functional, but inspired.
 
